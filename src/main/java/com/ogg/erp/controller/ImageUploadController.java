@@ -29,9 +29,6 @@ import com.ogg.erp.util.FileUtils;
 
 public class ImageUploadController extends HttpServlet
 {
-	/**
-	 * @Fields serialVersionUID : 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	private static final int IMAGE_NAME_LEN = 64;
